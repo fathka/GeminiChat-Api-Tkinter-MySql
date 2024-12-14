@@ -1,4 +1,5 @@
 tkinter
+tk
 Pillow
 mysql-connector-python
 google-generativeai
