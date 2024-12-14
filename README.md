@@ -1,1 +1,0 @@
-# GeminiChat-Api-Tkinter-MySql
